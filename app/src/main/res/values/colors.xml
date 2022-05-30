@@ -11,4 +11,6 @@
 
     <color name="color_white">@color/md_white_1000</color>
     <color name="background">@color/md_grey_50</color>
+    <color name="text_black">#0a0a0a</color>
+    <color name="text_gray_light">#4b4b4b</color>
 </resources>
