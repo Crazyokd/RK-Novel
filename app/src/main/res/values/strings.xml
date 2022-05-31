@@ -3,4 +3,10 @@
 
     <string name="book_shelf">书架</string>
     <string name="my">我的</string>
+
+    <string name="menu_bookcase_edit">编辑书架</string>
+    <string name="menu_bookcase_style">切换布局</string>
+    <string name="menu_bookcase_add">本地导入</string>
+    <string name="menu_bookcase_download">一键缓存</string>
+    <string name="menu_bookcase_scan">扫一扫</string>
 </resources>
